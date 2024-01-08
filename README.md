@@ -4,6 +4,8 @@ follow the guide its only few steps these are the requirements to run the game
 
 https://www.pygame.org/wiki/CompileWindows?parent=
 
+( oh if it doesnt install pygame `OPEN`up command prompt 
+   `pip install pygame` click enter)
 
 use the `install.bat` to install the requirements
 
