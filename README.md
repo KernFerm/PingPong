@@ -6,6 +6,7 @@ https://www.pygame.org/wiki/CompileWindows?parent=
 
 ( oh if it doesnt install pygame `OPEN`up command prompt 
    `pip install pygame` click enter)
+     (you only have to do this once, with all pygames)
 
 use the `requirements install.bat` to install the requirements
    (you only have to do this once, with all pygames)
