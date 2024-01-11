@@ -13,7 +13,7 @@ use the `requirements install.bat` has changed to .exe to install the requiremen
 
 if you do not have pet python ,
 
-use the `python3.11 installer.bat` has changed to .exe to install python 3.11.6
+use the `python3.11 installer.bat` has changed to `.exe` to install python 3.11.6
  ( when installing python make sure to click `ADD TO PATH`)
  "if you already have python you dont need to install it"
  
