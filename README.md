@@ -1,3 +1,6 @@
+- ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
+- ##   make account to FORK REPO
+
 # PingPong
 
 follow the guide its only few steps these are the requirements to run the game
