@@ -1,0 +1,16 @@
+# Ignore all files and folders by default
+*
+
+# Do not ignore `.gitignore` itself
+!.gitignore
+
+# Allow MD, Batch, and Txt files
+!*.md
+!*.bat
+!*.txt
+
+# Ignore Python files
+*.py
+
+# Ignore the "PingPong-main" folder and its contents
+PingPong-main/
